@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hipotenusa</string>
+    <string name="Katetoc">Kateto C:</string>
+    <string name="Katetob">Kateto B:</string>
+    <string name="GarbituBotoi">Garbitu</string>
+    <string name="kalkulatuBotoi">Kalkulatu</string>
+    <string name="KatetoA">Kateto A:</string>
+</resources>
